@@ -29,10 +29,8 @@ A simple JavaScript game where you try to guess a randomly generated number. The
 
 The game uses several JavaScript concepts:
 
-- Variables to track game state
-- Functions to handle different aspects of gameplay
+- Functions to handle different gameplay
 - Random number generation
-- Conditional logic to evaluate guesses
 - Loops to continue the game until completion
 - User input validation
 
