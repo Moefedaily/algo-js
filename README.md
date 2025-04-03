@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A simple JavaScript game where you try to guess a randomly generated number. The game provides hints ("Uppzz!" or "Downzz!") until you find the correct number.
+A JavaScript game where you try to guess a randomly generated number. The game provides hints ("Uppzz!" or "Downzz!") until you find the correct number.
 
 ## Features
 
