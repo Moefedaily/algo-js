@@ -40,4 +40,4 @@ The game uses several JavaScript concepts:
 
 1. Clone this repository
 2. Open the `index.html` file in a web browser
-3. Open the browser console (F12) to see all operation results
+3. Click Start game
